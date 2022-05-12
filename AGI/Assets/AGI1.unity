@@ -441,6 +441,7 @@ MonoBehaviour:
       hett Damn veranderde hett Damn veranderde het
     - Echt hip
   Canvas: {fileID: 1709876096}
+  Circle: {fileID: 0}
 --- !u!114 &284872949
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1127,6 +1128,7 @@ MonoBehaviour:
     - gegwvefvgnhtrewdsdhguytrgfvn jh
     - 09876543213456787653324567
   Canvas: {fileID: 1709876096}
+  Circle: {fileID: 1685482054}
 --- !u!212 &1685482057
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1230,6 +1232,7 @@ MonoBehaviour:
     name: 
     sentences: []
   Canvas: {fileID: 0}
+  Circle: {fileID: 0}
 --- !u!114 &1709876098
 MonoBehaviour:
   m_ObjectHideFlags: 0

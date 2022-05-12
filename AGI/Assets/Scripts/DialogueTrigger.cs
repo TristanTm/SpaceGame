@@ -7,6 +7,7 @@ public class DialogueTrigger : MonoBehaviour
 
 	public Dialogue dialogue;
 	public GameObject Canvas;
+	public GameObject Circle;
 
 	public void TriggerDialogue()
 	{
@@ -18,6 +19,7 @@ public class DialogueTrigger : MonoBehaviour
     {
         TriggerDialogue();
 		Destroy(this);
+		Destroy(Circle);
     }
 
 }
