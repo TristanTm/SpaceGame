@@ -14,4 +14,10 @@ public class DialogueTrigger : MonoBehaviour
 		Canvas.SetActive(true);
 	}
 
+    private void OnCollisionEnter(Collision collision)
+    {
+        TriggerDialogue();
+		Destroy(this);
+    }
+
 }
