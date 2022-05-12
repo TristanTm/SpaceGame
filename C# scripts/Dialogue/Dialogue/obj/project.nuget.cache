@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "twf7OddRlM+vOUFJBtwNAKmj2MJkrwVDjzheTM3C8/f4mXXvoAe2FhO128BlM9JU+oq3G7p6YH9UtHNIOqAsqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHKla\\OneDrive\\Documents\\School\\F1M3\\SpaceGame\\SpaceGame\\C# scripts\\Dialogue\\Dialogue\\Dialogue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHKla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
