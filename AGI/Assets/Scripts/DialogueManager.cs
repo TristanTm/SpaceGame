@@ -10,6 +10,7 @@ public class DialogueManager : MonoBehaviour
 	public Text dialogueText;
 	public GameObject Canvas;
 	public GameObject player;
+	public GameObject MainCanvas;
 
 
 	private Queue<string> sentences;
@@ -64,7 +65,7 @@ public class DialogueManager : MonoBehaviour
 		Debug.Log("End of dialogue");
 		Canvas.SetActive(false);
 		player.SetActive(true);
-
+		MainCanvas.SetActive(true);
 		
 	}
 

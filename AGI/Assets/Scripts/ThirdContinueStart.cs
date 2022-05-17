@@ -8,6 +8,7 @@ public class ThirdContinueStart : MonoBehaviour
     public GameObject SecondButton;
     public GameObject StartCanvas;
     public GameObject player;
+    public GameObject MainCanvas;
 
     public void onClick()
     {
@@ -16,6 +17,6 @@ public class ThirdContinueStart : MonoBehaviour
             SecondButton.SetActive(true);
             StartCanvas.SetActive(false);
             player.SetActive(true);
-
+            MainCanvas.SetActive(true);
     }
 }
