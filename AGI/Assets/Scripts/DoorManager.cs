@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DialogueManager : MonoBehaviour
+public class DoorManager : MonoBehaviour
 {
-
-	public Text nameText;
 	public Text dialogueText;
 	public GameObject Canvas;
 	public GameObject player;
@@ -24,9 +22,6 @@ public class DialogueManager : MonoBehaviour
 
 	public void StartDialogue(Dialogue dialogue)
 	{
-		
-
-		nameText.text = dialogue.name;
 
 		sentences.Clear();
 
@@ -62,12 +57,11 @@ public class DialogueManager : MonoBehaviour
 	}
 
 	void EndDialogue()
-    {
+	{
 		Debug.Log("End of dialogue");
 		Canvas.SetActive(false);
 		player.SetActive(true);
 		MainCanvas.SetActive(true);
-		
-	}
 
+	}
 }
