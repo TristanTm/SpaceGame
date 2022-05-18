@@ -3284,9 +3284,10 @@ MonoBehaviour:
   dialogue:
     name: 
     sentences:
-    - <color=white>asdasdasdadasdasdasdas</color>
-    - <color=white>gegwvefvgnhtrewdsdhguytrgfvn jh</color>
-    - <color=white>09876543213456787653324567</color>
+    - <color=white>Ohhh hey there.... Are you the enigner send by NASA?</color>
+    - <color=white>Cool! You need to go to the bridge.</color>
+    - <color=white>The door is locked but luckely the panel is broken the code should
+      be 2 7 4 9</color>
   Canvas: {fileID: 1709876096}
   Circle: {fileID: 1685482054}
   player: {fileID: 155258643}
@@ -3378,7 +3379,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1709876097
 MonoBehaviour:
   m_ObjectHideFlags: 0
