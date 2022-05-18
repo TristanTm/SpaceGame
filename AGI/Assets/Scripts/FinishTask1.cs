@@ -10,6 +10,7 @@ public class FinishTask1 : MonoBehaviour
     public GameObject rommel2;
     public GameObject rommel3;
     public GameObject task1;
+    public GameObject heart1;
 
 
 
@@ -20,6 +21,8 @@ public class FinishTask1 : MonoBehaviour
                     task1.SetActive(false);
                     player.SetActive(true);
                     Maincanvas.SetActive(true);
+
+                    heart1.SetActive(true);
                 
             
         }
