@@ -5,20 +5,25 @@ using UnityEngine;
 public class Movement : MonoBehaviour
 {
     public float movementSpeed = 3;
+
+    private Animator animator;
     void Start()
     {
-
+        animator = GetComponent<Animator>();
     }
 
     void Update()
     {
+        animator.SetFloat("Speed", 0);
         if (Input.GetKey(KeyCode.A))
         {
             transform.position += new Vector3(-movementSpeed, 0, 0) * Time.deltaTime;
+            animator.SetFloat("Speed", 1);
         }
         if (Input.GetKey(KeyCode.D))
         {
             transform.position += new Vector3(movementSpeed, 0, 0) * Time.deltaTime;
+            animator.SetFloat("Speed", 1);
         }
     }
 }
