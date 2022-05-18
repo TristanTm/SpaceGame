@@ -91,6 +91,27 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1912
+      y: 164
+      width: 56
+      height: 41
+    spriteID: 247b7ff497feb5945a63e6d4a60d88a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 658, y: 153}
   - name: Deur 3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -268,6 +289,16 @@ ScriptedImporter:
   resliceFromLayer: 0
   mosaicPSDLayers: []
   rigPSDLayers:
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 247b7ff497feb5945a63e6d4a60d88a5
+    layerID: 158
+    mosaicPosition: {x: 1912, y: 164}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Deur 3
     spriteName: Deur 3
     isGroup: 0
