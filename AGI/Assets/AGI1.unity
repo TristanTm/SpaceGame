@@ -1669,9 +1669,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'rommel2
-
-'
+  m_Text: 
 --- !u!222 &518108821
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2534,8 +2532,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -29.6, y: -18.2}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -19.8, y: -16.201}
+  m_SizeDelta: {x: 129.37659, y: 67.59736}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &917599158
 MonoBehaviour:
@@ -2626,8 +2624,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 5a4dc677786ba1947855f4a202190cee, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3087,8 +3085,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -29.6, y: 27.9}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -33.222603, y: 24.196806}
+  m_SizeDelta: {x: 96.95175, y: 52.55844}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1042528013
 MonoBehaviour:
@@ -3179,8 +3177,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 5a4dc677786ba1947855f4a202190cee, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3785,7 +3783,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: rommel3
+  m_Text: 
 --- !u!222 &1286067636
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3899,8 +3897,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 24.6, y: 27.9}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 23.414013, y: 15.57134}
+  m_SizeDelta: {x: 118.56833, y: 52.64523}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1315554576
 MonoBehaviour:
@@ -3991,8 +3989,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 5a4dc677786ba1947855f4a202190cee, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -5777,7 +5775,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: rommel1
+  m_Text: 
 --- !u!222 &2144352748
 CanvasRenderer:
   m_ObjectHideFlags: 0
