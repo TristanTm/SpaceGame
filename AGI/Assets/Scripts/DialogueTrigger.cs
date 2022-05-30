@@ -19,11 +19,10 @@ public class DialogueTrigger : MonoBehaviour
 		MainCanvas.SetActive(false);
 	}
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        TriggerDialogue();
+		TriggerDialogue();
 		Destroy(this);
 		Destroy(Circle);
-    }
-
+	}
 }
