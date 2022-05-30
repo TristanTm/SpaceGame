@@ -1,0 +1,15 @@
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\bin\Debug\net6.0\LesOpdachtDUsNietBelangrjik.exe
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\bin\Debug\net6.0\LesOpdachtDUsNietBelangrjik.deps.json
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\bin\Debug\net6.0\LesOpdachtDUsNietBelangrjik.runtimeconfig.json
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\bin\Debug\net6.0\LesOpdachtDUsNietBelangrjik.dll
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\bin\Debug\net6.0\LesOpdachtDUsNietBelangrjik.pdb
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.csproj.AssemblyReference.cache
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.AssemblyInfoInputs.cache
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.AssemblyInfo.cs
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.csproj.CoreCompileInputs.cache
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.dll
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\refint\LesOpdachtDUsNietBelangrjik.dll
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.pdb
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\LesOpdachtDUsNietBelangrjik.genruntimeconfig.cache
+C:\Users\safil\Desktop\Space game\SpaceGame\C# scripts\Interaction\LesOpdachtDUsNietBelangrjik\LesOpdachtDUsNietBelangrjik\obj\Debug\net6.0\ref\LesOpdachtDUsNietBelangrjik.dll
