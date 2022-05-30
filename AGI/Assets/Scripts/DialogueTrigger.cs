@@ -10,6 +10,7 @@ public class DialogueTrigger : MonoBehaviour
 	public GameObject Circle;
 	public GameObject player;
 	public GameObject MainCanvas;
+	public GameObject Heart;
 
 	public void TriggerDialogue()
 	{
@@ -17,6 +18,7 @@ public class DialogueTrigger : MonoBehaviour
 		Canvas.SetActive(true);
 		player.SetActive(false);
 		MainCanvas.SetActive(false);
+		Heart.SetActive(true);
 	}
 
     private void OnCollisionEnter(Collision collision)
