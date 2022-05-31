@@ -8,9 +8,6 @@ public class DialogueManager : MonoBehaviour
 
 	public Text nameText;
 	public Text dialogueText;
-	public GameObject Canvas;
-	public GameObject player;
-	public GameObject MainCanvas;
 
 
 
@@ -64,10 +61,6 @@ public class DialogueManager : MonoBehaviour
 	void EndDialogue()
     {
 		Debug.Log("End of dialogue");
-		Canvas.SetActive(false);
-		player.SetActive(true);
-		MainCanvas.SetActive(true);
-		
 	}
 
 }
