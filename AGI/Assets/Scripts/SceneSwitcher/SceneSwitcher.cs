@@ -6,10 +6,14 @@ using UnityEngine.SceneManagement;
 public class SceneSwitcher : Interactable
 {
 
-
+    public string Switch;
     public override void interact()
     {
-        SceneManager.LoadScene(0);
+        sceneswitch(Switch);
+    }
+    public void sceneswitch(string index)
+    {
+        SceneManager.LoadScene(index);
     }
 
 
