@@ -6,9 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Deel 2.unity
-    guid: 519ac51d38d4d2240ac827def0493e56
+    path: Assets/Scenes/StartScreen.unity
+    guid: 62c7ac72141ae4240836f1dc164475c0
   - enabled: 1
     path: Assets/Scenes/AGI1.unity
     guid: 332d2ee744acfe943b3d6e51ec1bbbed
+  - enabled: 1
+    path: Assets/Scenes/Deel 2.unity
+    guid: 519ac51d38d4d2240ac827def0493e56
+  - enabled: 1
+    path: Assets/Scenes/Exit.unity
+    guid: 3e0cb1527ce2dc245b72816790fc4d41
+  - enabled: 1
+    path: Assets/Scenes/Control Room.unity
+    guid: c7fa66e77bc2b24478d2f9e8ea447e6f
+  - enabled: 1
+    path: Assets/Scenes/Chase Scene.unity
+    guid: 1659656d78f84b045949c8ff66822fe9
   m_configObjects: {}

@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneSwitcher : Interactable
+
+public class NewGame : MonoBehaviour
 {
-
-
-    public override void interact()
+    
+    public void NewG()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
-
-
+    
 }
+
+
