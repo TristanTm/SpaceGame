@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 50f3a06dab81dd84cbc2b8a67c21bbdd
-=======
-guid: b00cfd3e8edcc6b419ce6cfda1eeb561
->>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -102,15 +98,11 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 10180
-      y: 4
-      width: 150
-      height: 1040
-<<<<<<< HEAD
-    spriteID: 4e2150a78dbdf7b4da159fa156d9c02b
-=======
-    spriteID: eb85a9ec1a70c8c40a3b457f33dbd661
->>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+      x: 28
+      y: 120
+      width: 15
+      height: 104
+    spriteID: ec881822eb8a39048b17666d604f0521
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -119,7 +111,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 10180, y: -36}
+    uvTransform: {x: 28, y: 116}
   - name: R
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -127,15 +119,11 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 10012
-      y: 4
-      width: 160
-      height: 1040
-<<<<<<< HEAD
-    spriteID: e9490f8583b3be74c846716970c92936
-=======
-    spriteID: 3007e155386a0f7428efa37ab33d3372
->>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+      x: 4
+      y: 120
+      width: 16
+      height: 104
+    spriteID: 86db778877a19b740882a63ff8a57964
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,7 +132,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 172, y: -36}
+    uvTransform: {x: -980, y: 116}
   - name: Background
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -154,13 +142,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 10000
-      height: 1080
-<<<<<<< HEAD
-    spriteID: 3a4974683126b714b9bf34dda46f0694
-=======
-    spriteID: 0891ac3ef8428724287df07204fe0584
->>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+      width: 1000
+      height: 108
+    spriteID: c68556378fa7f6542b3770050a6f86e6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -214,13 +198,9 @@ ScriptedImporter:
     spriteName: L
     isGroup: 0
     parentIndex: 0
-<<<<<<< HEAD
-    spriteID: 4e2150a78dbdf7b4da159fa156d9c02b
-=======
-    spriteID: eb85a9ec1a70c8c40a3b457f33dbd661
->>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+    spriteID: ec881822eb8a39048b17666d604f0521
     layerID: 7870
-    mosaicPosition: {x: 10180, y: 4}
+    mosaicPosition: {x: 28, y: 120}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -228,13 +208,9 @@ ScriptedImporter:
     spriteName: R
     isGroup: 0
     parentIndex: 0
-<<<<<<< HEAD
-    spriteID: e9490f8583b3be74c846716970c92936
-=======
-    spriteID: 3007e155386a0f7428efa37ab33d3372
->>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+    spriteID: 86db778877a19b740882a63ff8a57964
     layerID: 167
-    mosaicPosition: {x: 10012, y: 4}
+    mosaicPosition: {x: 4, y: 120}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -242,11 +218,7 @@ ScriptedImporter:
     spriteName: Background
     isGroup: 0
     parentIndex: -1
-<<<<<<< HEAD
-    spriteID: 3a4974683126b714b9bf34dda46f0694
-=======
-    spriteID: 0891ac3ef8428724287df07204fe0584
->>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+    spriteID: c68556378fa7f6542b3770050a6f86e6
     layerID: 1
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
