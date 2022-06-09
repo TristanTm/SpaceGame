@@ -267,6 +267,7 @@ MonoBehaviour:
   rommel3: {fileID: 917599156}
   task1: {fileID: 855985027}
   heart2: {fileID: 155035150}
+  notificatie: {fileID: 257818597}
 --- !u!114 &16802765
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -489,7 +490,6 @@ MonoBehaviour:
   Circle: {fileID: 40716123}
   player: {fileID: 155258643}
   MainCanvas: {fileID: 1000153879}
-  notification: {fileID: 0}
 --- !u!1 &48051790
 GameObject:
   m_ObjectHideFlags: 0
@@ -2239,7 +2239,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 32767
   m_TargetDisplay: 0
 --- !u!224 &257818601
 RectTransform:
@@ -3730,7 +3730,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 476310568}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.866479, y: -1.774, z: 0.218}
+  m_LocalPosition: {x: 10.947, y: -1.774, z: 0.218}
   m_LocalScale: {x: 0.4078, y: 0.4078, z: 0.8338286}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3753,7 +3753,6 @@ MonoBehaviour:
   Circle: {fileID: 476310568}
   player: {fileID: 155258643}
   MainCanvas: {fileID: 1000153879}
-  notification: {fileID: 257818597}
 --- !u!61 &476310574
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8244,7 +8243,6 @@ MonoBehaviour:
   Circle: {fileID: 1100046340}
   player: {fileID: 155258643}
   MainCanvas: {fileID: 1000153879}
-  notification: {fileID: 0}
 --- !u!1 &1100920636
 GameObject:
   m_ObjectHideFlags: 0
