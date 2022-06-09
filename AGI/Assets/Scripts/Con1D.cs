@@ -8,6 +8,8 @@ public class Con1D : MonoBehaviour
 	public GameObject MainCanvas;
 	public GameObject DialogueScreen;
 	public GameObject Interaction;
+	public GameObject notification;
+	
 
 	public void onClick()
 	{
@@ -17,6 +19,8 @@ public class Con1D : MonoBehaviour
 			DialogueScreen.SetActive(false);
 			Destroy(DialogueScreen);
 			Destroy(Interaction);
+			notification.SetActive(true);
+
 		
 	}
 }
