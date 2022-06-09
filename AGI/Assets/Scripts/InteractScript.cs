@@ -10,6 +10,7 @@ public class InteractScript : Interactable
     public GameObject Circle;
     public GameObject player;
     public GameObject MainCanvas;
+    public GameObject notification;
 
 
     public override void interact()
@@ -18,6 +19,7 @@ public class InteractScript : Interactable
         Canvas.SetActive(true);
         player.SetActive(false);
         MainCanvas.SetActive(false);
+        notification.SetActive(true);
     }
 
     
