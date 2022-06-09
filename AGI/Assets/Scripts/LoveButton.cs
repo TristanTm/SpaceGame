@@ -13,6 +13,7 @@ public class LoveButton : MonoBehaviour
     public GameObject Girl4;
     public GameObject HeartGirl1;
     public GameObject notification;
+    public GameObject Pijl;
 
     public void onClick()
     {
@@ -24,6 +25,7 @@ public class LoveButton : MonoBehaviour
         Girl3.SetActive(false);
         Girl4.SetActive(false);
         notification.SetActive(false);
+        Pijl.SetActive(false);
 
         if(HeartGirl1.activeInHierarchy == true)
         {

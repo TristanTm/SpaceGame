@@ -9,6 +9,7 @@ public class Con1D : MonoBehaviour
 	public GameObject DialogueScreen;
 	public GameObject Interaction;
 	public GameObject notification;
+	public GameObject BackButton;
 	
 
 	public void onClick()
@@ -20,6 +21,7 @@ public class Con1D : MonoBehaviour
 			Destroy(DialogueScreen);
 			Destroy(Interaction);
 			notification.SetActive(true);
+			BackButton.SetActive(false);
 
 		
 	}
