@@ -100,9 +100,19 @@ ScriptedImporter:
       serializedVersion: 2
       x: 28
       y: 120
+<<<<<<< HEAD
       width: 15
       height: 104
     spriteID: ec881822eb8a39048b17666d604f0521
+=======
+      width: 150
+      height: 1040
+<<<<<<< HEAD
+    spriteID: 4e2150a78dbdf7b4da159fa156d9c02b
+=======
+    spriteID: eb85a9ec1a70c8c40a3b457f33dbd661
+>>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+>>>>>>> a4fa7cd2e9187c038a727f0df28845b970b77c30
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -121,9 +131,19 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 120
+<<<<<<< HEAD
       width: 16
       height: 104
     spriteID: 86db778877a19b740882a63ff8a57964
+=======
+      width: 160
+      height: 1040
+<<<<<<< HEAD
+    spriteID: e9490f8583b3be74c846716970c92936
+=======
+    spriteID: 3007e155386a0f7428efa37ab33d3372
+>>>>>>> ed0aec366fd6baa0c420f2ce28b9229e05cfac74
+>>>>>>> a4fa7cd2e9187c038a727f0df28845b970b77c30
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -188,7 +208,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: 3c46b76631702ae4cb14ff322fc14b8d
     layerID: 235
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
