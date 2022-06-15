@@ -13,12 +13,16 @@ public class InteractScript : Interactable
 
 
 
+
+
+
     public override void interact()
     {
        
         Canvas.SetActive(true);
         player.SetActive(false);
         MainCanvas.SetActive(false);
+
 
     }
 
