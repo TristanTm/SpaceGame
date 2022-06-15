@@ -12,6 +12,7 @@ public class Sliders : MonoBehaviour
     public GameObject MainCanvas;
     public GameObject SliderCanvas;
     public GameObject Heart3;
+    public GameObject notification;
 
     public void Slidersetting()
     {
@@ -21,6 +22,7 @@ public class Sliders : MonoBehaviour
             MainCanvas.SetActive(true);
             SliderCanvas.SetActive(false);
             Heart3.SetActive(true);
+            notification.SetActive(true);
         }
     }
     
