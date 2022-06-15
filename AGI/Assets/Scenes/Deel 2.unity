@@ -252,7 +252,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &163963608
 GameObject:
@@ -562,8 +562,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6b78bfb6fad3a04fb4a69d1da712cd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: {fileID: 0}
-  dialogueText: {fileID: 0}
+  nameText: {fileID: 731594985}
+  dialogueText: {fileID: 681902108}
 --- !u!4 &216814826
 Transform:
   m_ObjectHideFlags: 0
@@ -882,7 +882,7 @@ RectTransform:
   m_Children:
   - {fileID: 2036433044}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 216814825}
         m_TargetAssemblyTypeName: DialogueManager, Assembly-CSharp
         m_MethodName: DisplayNextSentence
         m_Mode: 1
@@ -3064,7 +3064,7 @@ RectTransform:
   - {fileID: 1328403383}
   - {fileID: 960077444}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3865,7 +3865,6 @@ GameObject:
   - component: {fileID: 1157495392}
   - component: {fileID: 1157495391}
   - component: {fileID: 1157495390}
-  - component: {fileID: 1157495394}
   m_Layer: 5
   m_Name: Girl1
   m_TagString: Untagged
@@ -3908,16 +3907,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LoveCanvas: {fileID: 580355881}
   GirlCanvas: {fileID: 435694784}
-  heart1: {fileID: 836675719}
-  heart2: {fileID: 1147595534}
-  heart3: {fileID: 957581514}
-  heart4: {fileID: 1328403382}
-  heart5: {fileID: 960077443}
-  ActiveHeart1: {fileID: 0}
-  ActiveHeart2: {fileID: 0}
-  ActiveHeart3: {fileID: 0}
-  ActiveHeart4: {fileID: 0}
-  ActiveHeart5: {fileID: 0}
+  heart1: {fileID: 1818819772}
+  heart2: {fileID: 1214409512}
+  heart3: {fileID: 270851008}
+  heart4: {fileID: 747379238}
+  heart5: {fileID: 2074861752}
+  ActiveHeart1: {fileID: 836675719}
+  ActiveHeart2: {fileID: 1147595534}
+  ActiveHeart3: {fileID: 957581514}
+  ActiveHeart4: {fileID: 1328403382}
+  ActiveHeart5: {fileID: 960077443}
   Talk1: {fileID: 1109548514}
   Talk2: {fileID: 1793267648}
   Talk3: {fileID: 1962814010}
@@ -4018,36 +4017,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1157495388}
   m_CullTransparentMesh: 1
---- !u!114 &1157495394
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1157495388}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c12bcc21942b0dc43bf1aa75c21c678f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LoveCanvas: {fileID: 0}
-  GirlCanvas: {fileID: 0}
-  heart1: {fileID: 0}
-  heart2: {fileID: 0}
-  heart3: {fileID: 0}
-  heart4: {fileID: 0}
-  heart5: {fileID: 0}
-  ActiveHeart1: {fileID: 0}
-  ActiveHeart2: {fileID: 0}
-  ActiveHeart3: {fileID: 0}
-  ActiveHeart4: {fileID: 0}
-  ActiveHeart5: {fileID: 0}
-  Talk1: {fileID: 0}
-  Talk2: {fileID: 0}
-  Talk3: {fileID: 0}
-  Talk4: {fileID: 0}
-  FakeHeart1: {fileID: 0}
-  FakeHeart2: {fileID: 0}
 --- !u!1 &1175611684
 GameObject:
   m_ObjectHideFlags: 0
@@ -5143,7 +5112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31cda533493a8cf43a291cb7fe5b5e5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MainCanvas: {fileID: 0}
+  MainCanvas: {fileID: 580355881}
   LoveCanvas: {fileID: 435694784}
 --- !u!114 &1375361257
 MonoBehaviour:
@@ -6677,7 +6646,7 @@ MonoBehaviour:
     - Let's go to the cafeteria for our date.
     - Ohh You have other things to do first?
     - No matter i will wait for you there.
-  task1: {fileID: 0}
+  task1: {fileID: 148605878}
 --- !u!114 &1962814013
 MonoBehaviour:
   m_ObjectHideFlags: 0
