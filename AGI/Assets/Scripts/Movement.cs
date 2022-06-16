@@ -28,6 +28,11 @@ public class Movement : MonoBehaviour
             transform.position += new Vector3(movementSpeed, 0, 0) * Time.deltaTime;
             animator.SetFloat("Speed", 1);
         }
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            transform.position += new Vector3(movementSpeed * 2, 0, 0) * Time.deltaTime;
+            animator.SetFloat("Speed", 1);
+        }
         if (Input.GetKey(KeyCode.E))
         {
             CheckInteraction();
