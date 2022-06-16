@@ -11,9 +11,9 @@ public class Wire : MonoBehaviour
     }
     private void OnMouseDrag()
     {
-        // mouse position to world point
+        //mouse position to world point
 
-        Vector3 newPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector3 newPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
         newPosition.z = 0;
 
         //update wire
