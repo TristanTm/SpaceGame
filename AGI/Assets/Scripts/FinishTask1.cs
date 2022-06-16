@@ -13,6 +13,8 @@ public class FinishTask1 : MonoBehaviour
     public GameObject heart2;
     public GameObject notificatie;
 
+    public GameObject RaaamSchoonmaken;
+
 
 
     public void onclick()
@@ -24,6 +26,7 @@ public class FinishTask1 : MonoBehaviour
                     Maincanvas.SetActive(true);
             notificatie.SetActive(true);
                     heart2.SetActive(true);
+            RaaamSchoonmaken.SetActive(true);
                 
             
         }

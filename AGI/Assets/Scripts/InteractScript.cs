@@ -9,6 +9,7 @@ public class InteractScript : Interactable
     public GameObject Canvas;
     public GameObject player;
     public GameObject MainCanvas;
+
     public override void interact()
     {
        

@@ -777,8 +777,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 232870517}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.724, y: -0.621, z: 0.218}
-  m_LocalScale: {x: 0.4078, y: 0.4078, z: 0.8338286}
+  m_LocalPosition: {x: 8.642, y: -0.5664, z: 0.218}
+  m_LocalScale: {x: 0.57173556, y: 0.5170935, z: 0.8338286}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2190,7 +2190,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &443712332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2429,7 +2429,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 787bad24c8a8fd04cb81a1fa612abd7a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fa4f6cea32e8ea2458ebd2ac8e4c7006, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3364,7 +3364,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1a93c4f854c467844bb7f006a0bca459, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3e0029b8cc5ed1d4395561340d2b4fbb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4884,7 +4884,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &931608718
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5939,6 +5939,7 @@ MonoBehaviour:
   task1: {fileID: 914496955}
   heart2: {fileID: 2008577973}
   notificatie: {fileID: 333139328}
+  RaaamSchoonmaken: {fileID: 0}
 --- !u!114 &1074786624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7657,7 +7658,7 @@ GameObject:
   - component: {fileID: 1326754267}
   - component: {fileID: 1326754266}
   m_Layer: 5
-  m_Name: Schoonmaak
+  m_Name: Schoonmaakspullen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9085,7 +9086,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5a4dc677786ba1947855f4a202190cee, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 012aa25930867d145a11962fcb24c1ee, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9470,6 +9471,7 @@ MonoBehaviour:
   task1: {fileID: 1326754265}
   heart2: {fileID: 148605878}
   notificatie: {fileID: 333139328}
+  RaaamSchoonmaken: {fileID: 443712331}
 --- !u!114 &1588181097
 MonoBehaviour:
   m_ObjectHideFlags: 0
