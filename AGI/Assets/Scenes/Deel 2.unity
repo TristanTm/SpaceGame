@@ -7208,7 +7208,7 @@ MonoBehaviour:
   task1: {fileID: 914496955}
   heart2: {fileID: 2008577973}
   notificatie: {fileID: 333139328}
-  RaaamSchoonmaken: {fileID: 0}
+  RaaamSchoonmaken: {fileID: 914496955}
 --- !u!114 &1074786624
 MonoBehaviour:
   m_ObjectHideFlags: 0
