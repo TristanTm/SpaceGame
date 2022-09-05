@@ -22,6 +22,7 @@ public class Girl1Button : MonoBehaviour
     public GameObject Talk4;
     public GameObject FakeHeart1;
     public GameObject FakeHeart2;
+    public GameObject Character;
 
     public void onclick()
     {
@@ -38,6 +39,7 @@ public class Girl1Button : MonoBehaviour
         Talk4.SetActive(false);
         FakeHeart1.SetActive(false);
         FakeHeart2.SetActive(false);
+        Character.SetActive(true);
         if (ActiveHeart1.activeInHierarchy == true)
         {
             heart1.SetActive(true);
